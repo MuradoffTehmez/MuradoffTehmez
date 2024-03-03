@@ -1,4 +1,3 @@
-[![MasterHead](https://images.app.goo.gl/YDHHdn7d1yovpoZB7)
 <h1 align="center">Muradov Tahmaz</h1>
 <h3 align="center">Azerbaycan'ın en çalışkan arka uç programcısı.</h3>
 
