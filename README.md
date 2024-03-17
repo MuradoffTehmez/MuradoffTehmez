@@ -2,7 +2,7 @@
 
 <h1 align="center">Tahmaz Muradov "Təhməz Muradov"</ h1> 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
