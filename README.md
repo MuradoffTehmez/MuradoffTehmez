@@ -1,36 +1,68 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center"></h1>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+  <img height="123" src="https://i.pinimg.com/originals/15/19/95/15199572cf0639288f135adab038a523.gif"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="34" alt="csharp logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="34" alt="dot-net logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=java" height="34" alt="java logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="34" alt="react logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="34" alt="gitlab logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="34" alt="python logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=django" height="34" alt="django logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="34" alt="unity logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="34" alt="vscode logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="34" alt="visualstudio logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="34" alt="powershell logo"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/muradovtahmaz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="102" height="41" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/muradoff_code" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="102" height="41" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/muradovtahmaz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="102" height="41" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/muradovtahmaz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="102" height="41" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
