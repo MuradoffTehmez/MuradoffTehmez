@@ -5,7 +5,6 @@
 <br clear="both">
 
 <div align="center">
-  <img height="123" src="https://i.pinimg.com/originals/15/19/95/15199572cf0639288f135adab038a523.gif"  />
 </div>
 
 ###
