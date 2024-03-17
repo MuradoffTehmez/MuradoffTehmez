@@ -1,67 +1,30 @@
-<h1 align="center"></h1>
+# 💫 About Me:
+Muradov Tahmaz
 
-###
 
-<br clear="both">
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muradoffcode) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muradoffcode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muradovtahmaz/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muradoffcode) 
 
-<div align="center">
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MuradoffTehmez&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuradoffTehmez&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradoffTehmez&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MuradoffTehmez&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="34" alt="csharp logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="34" alt="dot-net logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=java" height="34" alt="java logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="34" alt="react logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="34" alt="gitlab logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="34" alt="python logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=django" height="34" alt="django logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="34" alt="unity logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="34" alt="vscode logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="34" alt="visualstudio logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="34" alt="powershell logo"  />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MuradoffTehmez&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-<br clear="both">
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/muradovtahmaz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="102" height="41" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/muradoff_code" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="102" height="41" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/muradovtahmaz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="102" height="41" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/muradovtahmaz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="102" height="41" alt="facebook logo"  />
-  </a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=MuradoffTehmez&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
