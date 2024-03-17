@@ -3,7 +3,7 @@
 <h1 align="center">Tahmaz Muradov "Təhməz Muradov"</ h1> 
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Le45" />
+  <img src="https://raw.githubusercontent.com/MuradoffTehmez/MuradoffTehmez/master/name.svg" alt="MuradoffTehmez" />
 </h1>
 
 ### ✍️ Random Dev Quote
