@@ -27,9 +27,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MuradoffTehmez&theme=merko"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuradoffTehmez&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuradoffTehmez&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradoffTehmez&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
