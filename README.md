@@ -1,85 +1,121 @@
 # 👋 Hello, World! I'm **Muradoff Tehmez**
 
-Welcome to my GitHub profile! 🌟 I'm a **C# .NET and SQL Server developer** with over 4 years of experience, crafting **robust software solutions** and **secure backend systems**. 💻 But that's not all—I’m also an **ethical hacker**, diving deep into **vulnerability assessments** and **security standards** 🛡️.
+Welcome to my GitHub profile! 🚀 I’m a **C# .NET Developer**, **SQL Server Specialist**, and a certified **Ethical Hacker**, dedicated to building **robust software architectures**, crafting **secure authentication systems**, and contributing to the future of tech in **Azerbaijan**. 🇦🇿
+
+With over **4 years of experience**, I’ve developed a strong foundation in both backend development and cybersecurity, blending these domains to deliver **resilient, scalable, and secure systems**.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Who Am I?
 
-✨ **Profession**: C# .NET & SQL Server Developer | Ethical Hacker  
-🌍 **Location**: Nakhchivan, Azerbaijan  
-🏆 **Achievements**: 🥇 First-place winner at StartupFest Nakhchivan  
-🎓 **Teaching**: Designing a **professional 5-month C# and SQL Server course**  
-💡 **Passion**: Blending **security** 🔒 with **software development** 🧑‍💻 to build **robust systems**
+- 🏷️ **Full Name**: Muradov Tehmez
+- 🌐 **Location**: Nakhchivan, Azerbaijan
+- 👨‍🏫 **Teaching**: Creator of a **5-month professional C# & SQL Server course**
+- 🥇 **Achievement**: First-place winner at **StartupFest Nakhchivan**
+- 🔐 **Security Role**: Active **Ethical Hacker** under NDA with **Qarabug MMC**
+- 💬 **Languages**: Azerbaijani (native), English (fluent), Turkish (fluent)
 
 ---
 
-## 💻 Top Skills
+## 🛠️ Tech Stack & Core Skills
 
-### 🛠️ Programming Languages
-- 🖤 **C#**
-- 🐍 **Python**
-- 🏢 **SQL**
-- ☕ **Java**
-- 🌐 **JavaScript**
+### 🔹 Languages
+- 💻 **C#** – Windows Forms, OOP, business automation  
+- 🐍 **Python** – Django, scripting, automation  
+- 🏢 **SQL** – Complex queries, stored procedures, optimization  
+- ☕ **Java**, 🌐 **JavaScript**, 📜 **HTML/CSS**
 
-### 📚 Frameworks & Tools
-- 🧩 **.NET Framework**
-- 🌿 **Django**
-- 📋 **WinForms**
-- 🤖 **Arduino**
-- 🔗 **Git** | **GitHub**
+### 🔹 Frameworks & Technologies
+- 🧩 **.NET Framework (C# 7.3+)**
+- 🌿 **Django (Python Backend Framework)**
+- 📊 **Microsoft SQL Server** – Views, triggers, login systems
+- 📦 **Zebra Printer Language (ZPL)** – Barcode system design  
+- 🤖 **Arduino** – IoT prototyping, embedded systems
+- 🌐 **Web** – HTML5/CSS3/Bootstrap/JS for frontend integration
+- 🐙 **Git & GitHub**, 🐳 Docker (Beginner level)
 
-### ⚙️ Technologies
-- 🗄️ **Microsoft SQL Server**
-- 🖨️ **ZPL (Zebra Printer Language)**
-- 📡 **Wireshark**
+### 🔹 Security & Networks
+- 🔐 **Ethical Hacking** – CVSSv3.1 based assessments  
+- 🧠 **Vulnerability Scanning** – OWASP Top 10, penetration testing  
+- 📡 **Wireshark** – Packet capture, network analysis  
+- 🔍 **Secure Coding** – Login, session, and token management
 
-### 🔐 Security Expertise
-- Ethical hacking 🛡️
-- Secure login systems & authentication modules 🔑
-
-### 🌟 Others
-- 🎨 **HTML/CSS** | Frontend integration 🌈
-- 📜 Technical documentation 📝
+### 🔹 Soft Skills & Methodologies
+- ✅ Strong documentation habits & clean code principles  
+- 👥 Agile methodology experience  
+- 🔁 Test-Driven Development (TDD) and debugging  
+- 🧩 UI/UX-oriented backend systems with a focus on usability  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔖 **Barcode System**
-📦 Built a custom **barcode system** using **C#** and **SQL Server** for retail shops, integrated with **Zebra printers**.
+### 📦 Barcode System (Retail)
+A full solution developed in **C# + SQL Server**, used for product management and integrated with **Zebra barcode printers** via **ZPL commands**.
 
-### 🌍 **Saintstream Website**
-💻 Created a dynamic website using **Django**, with responsive frontend components powered by **HTML**, **CSS**, and **JavaScript**.
+### 🌍 Saintstream Platform
+A **Django-based web project** that serves dynamic multimedia content. Features include admin dashboard, user management, and responsive frontend (HTML/CSS/JS).
 
-### 🧠 **360-Degree Feedback System**
-🌟 Delivered a **full-stack evaluation system** featuring:
-- 🛠️ Registration & authentication
-- 🧑‍💻 Profile management
-- 🔑 Password recovery modules
+### 🔄 360-Degree Evaluation System
+Designed for institutional performance evaluation.  
+Includes:
+- ✔️ Auth module (login, register, reset password)
+- 📊 Evaluation dashboards
+- 🧑‍💼 Profile management & HR integration
+- 🔒 Secure backend with role-based access
 
-### 📊 **Government Assessment Platform**
-📈 Contributed to a **Django-based project** supporting data-driven evaluations for state institutions.
+### 🏛️ Government Assessment Platform
+Built with Django, this system is used by government agencies for tracking KPIs and managing digital forms and reporting.
 
 ---
 
-## 📫 Connect with Me
+## 🎓 Educational Background
 
-🌟 **GitHub**: [github.com/tehmezmuradov](https://github.com/tehmezmuradov)  
-💼 **LinkedIn**: [linkedin.com/in/muradovtahmaz](https://www.linkedin.com/in/muradovtahmaz)  
-✉️ **Email**: muradoffcode@gmail.com  
-📱 **Telegram/WhatsApp**: +994518717483  
+
+- 🏅 **Certifications**:
+  - Microsoft Certified – SQL Server & C#
+  - Cisco Certified – Networking
+  - Oracle – Database Foundations
+  - ISCODE Academy Graduate – Computer Business & Programming
+
+---
+
+## 🗂️ Teaching & Mentorship
+
+I’m currently preparing a **comprehensive professional training program** focused on:
+- 🔹 **C# .NET (7.3)** for Windows Desktop Applications
+- 🔹 **Microsoft SQL Server** for data modeling and optimization
+- 🔹 Real-world projects: Barcode systems, user auth, sales platforms
+- 🔹 OOP, clean architecture & secure coding practices
+
+👨‍🏫 I aim to empower aspiring developers in Azerbaijan with **market-ready skills**, helping build a new generation of engineers.
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 **GitHub**: [github.com/tehmezmuradov](https://github.com/tehmezmuradov)
+- 💼 **LinkedIn**: [linkedin.com/in/muradovtahmaz](https://www.linkedin.com/in/muradovtahmaz)
+- 📧 **Email**: muradoffcode@gmail.com
+- 📱 **Phone / Telegram / WhatsApp**: +994 51 871 74 83  
+- 🌐 **Website (soon)**: [www.tehmez.dev](#) *(Coming soon)*
 
 ---
 
 ## 🎉 Fun Facts
 
-- 🥇 Winner at **StartupFest Nakhchivan** 🎉  
-- 🛠️ Currently designing a **professional 5-month C# and SQL Server course** ✨  
-- 🔐 Passionate about security and development—creating **robust systems** while ensuring **top-tier safety** 🛡️  
-- 🇦🇿 Proudly contributing to the growing **tech scene** in **Nakhchivan, Azerbaijan** 🌍  
+- 🥇 I won **1st place at StartupFest Nakhchivan** with an innovative tech idea  
+- 🔐 I test security systems for real companies under formal **ethical hacking contracts**  
+- 📚 I love mixing **coding with teaching** – watching others grow is part of my mission  
+- 🇦🇿 I’m proud to be contributing to **Azerbaijan’s digital transformation**  
+- 🎯 Motto: _"If it's not secure, it's not complete."_  
 
 ---
 
-💡 **Let’s build something amazing together! 🚀**
+## 💡 Let’s Collaborate
+
+Whether it's building enterprise software, securing systems, or teaching others, I'm always open to **collaborations**, **challenges**, and **innovative ideas**.  
+Let's **connect, create, and contribute** to the tech world together!
+
+**Thank you for visiting my profile! 🌟**
+
