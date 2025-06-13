@@ -1,31 +1,85 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+# 👋 Hello, World! I'm **Muradoff Tehmez**
 
-<h1 align="center">Hey, I'm Tahmaz Muradov! 👋</h1>
+Welcome to my GitHub profile! 🌟 I'm a **C# .NET and SQL Server developer** with over 4 years of experience, crafting **robust software solutions** and **secure backend systems**. 💻 But that's not all—I’m also an **ethical hacker**, diving deep into **vulnerability assessments** and **security standards** 🛡️.
 
-## 🌐 Social Media:
-<p align="center">
-  <a href="https://facebook.com/muradoffcode"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/muradoffcode"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/muradovtahmaz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/muradoffcode"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
+---
 
-## 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,java,html,css,js,dotnet,nodejs,laravel,django,python,sql,arduino,react,angular"/>
-</p>
+## 🚀 About Me
 
-## 📈 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/MuradoffTehmez">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuradoffTehmez&theme=2077" height="180em"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuradoffTehmez&theme=2077" height="180em"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuradoffTehmez&theme=2077" height="180em"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuradoffTehmez&theme=2077" height="180em"/>
-  </a>
-</div>
+✨ **Profession**: C# .NET & SQL Server Developer | Ethical Hacker  
+🌍 **Location**: Nakhchivan, Azerbaijan  
+🏆 **Achievements**: 🥇 First-place winner at StartupFest Nakhchivan  
+🎓 **Teaching**: Designing a **professional 5-month C# and SQL Server course**  
+💡 **Passion**: Blending **security** 🔒 with **software development** 🧑‍💻 to build **robust systems**
 
-## 🚀 Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuradoffTehmez&theme=merko"/>
-</p>
+---
+
+## 💻 Top Skills
+
+### 🛠️ Programming Languages
+- 🖤 **C#**
+- 🐍 **Python**
+- 🏢 **SQL**
+- ☕ **Java**
+- 🌐 **JavaScript**
+
+### 📚 Frameworks & Tools
+- 🧩 **.NET Framework**
+- 🌿 **Django**
+- 📋 **WinForms**
+- 🤖 **Arduino**
+- 🔗 **Git** | **GitHub**
+
+### ⚙️ Technologies
+- 🗄️ **Microsoft SQL Server**
+- 🖨️ **ZPL (Zebra Printer Language)**
+- 📡 **Wireshark**
+
+### 🔐 Security Expertise
+- Ethical hacking 🛡️
+- Secure login systems & authentication modules 🔑
+
+### 🌟 Others
+- 🎨 **HTML/CSS** | Frontend integration 🌈
+- 📜 Technical documentation 📝
+
+---
+
+## 🌟 Featured Projects
+
+### 🔖 **Barcode System**
+📦 Built a custom **barcode system** using **C#** and **SQL Server** for retail shops, integrated with **Zebra printers**.
+
+### 🌍 **Saintstream Website**
+💻 Created a dynamic website using **Django**, with responsive frontend components powered by **HTML**, **CSS**, and **JavaScript**.
+
+### 🧠 **360-Degree Feedback System**
+🌟 Delivered a **full-stack evaluation system** featuring:
+- 🛠️ Registration & authentication
+- 🧑‍💻 Profile management
+- 🔑 Password recovery modules
+
+### 📊 **Government Assessment Platform**
+📈 Contributed to a **Django-based project** supporting data-driven evaluations for state institutions.
+
+---
+
+## 📫 Connect with Me
+
+🌟 **GitHub**: [github.com/tehmezmuradov](https://github.com/tehmezmuradov)  
+💼 **LinkedIn**: [linkedin.com/in/muradovtahmaz](https://www.linkedin.com/in/muradovtahmaz)  
+✉️ **Email**: muradoffcode@gmail.com  
+📱 **Telegram/WhatsApp**: +994518717483  
+
+---
+
+## 🎉 Fun Facts
+
+- 🥇 Winner at **StartupFest Nakhchivan** 🎉  
+- 🛠️ Currently designing a **professional 5-month C# and SQL Server course** ✨  
+- 🔐 Passionate about security and development—creating **robust systems** while ensuring **top-tier safety** 🛡️  
+- 🇦🇿 Proudly contributing to the growing **tech scene** in **Nakhchivan, Azerbaijan** 🌍  
+
+---
+
+💡 **Let’s build something amazing together! 🚀**
