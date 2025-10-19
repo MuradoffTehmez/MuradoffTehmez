@@ -26,7 +26,7 @@ With over **4 years of experience**, I’ve developed a strong foundation in bot
 - ☕ **Java**, 🌐 **JavaScript**, 📜 **HTML/CSS**
 
 ### 🔹 Frameworks & Technologies
-- 🧩 **.NET Framework (C# 7.3+)**
+- 🧩 **.NET Framework (C# 8)**
 - 🌿 **Django (Python Backend Framework)**
 - 📊 **Microsoft SQL Server** – Views, triggers, login systems
 - 📦 **Zebra Printer Language (ZPL)** – Barcode system design  
