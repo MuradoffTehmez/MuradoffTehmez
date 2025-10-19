@@ -83,7 +83,7 @@ Built with Django, this system is used by government agencies for tracking KPIs 
 ## 🗂️ Teaching & Mentorship
 
 I’m currently preparing a **comprehensive professional training program** focused on:
-- 🔹 **C# .NET (7.3)** for Windows Desktop Applications
+- 🔹 **C# .NET (8)** for Windows Desktop Applications
 - 🔹 **Microsoft SQL Server** for data modeling and optimization
 - 🔹 Real-world projects: Barcode systems, user auth, sales platforms
 - 🔹 OOP, clean architecture & secure coding practices
