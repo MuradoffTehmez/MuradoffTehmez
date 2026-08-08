@@ -79,6 +79,21 @@ My work philosophy combines **engineering precision**, **security-first coding**
 
 ## 🌟 Featured Projects
 
+### 🌐 **Collabix** – Cloudflare Native Developer Collaboration Platform
+
+> An open-source, ultra-fast collaboration platform for developers, creators, and innovators built entirely on the **Cloudflare Ecosystem**.
+
+**Highlights:**
+
+* Zero-latency architecture using Cloudflare Workers, Pages, and D1 (SQLite)
+* Real-time WebSocket communication via Durable Objects
+* Integrated project management (Kanban/Sprints) and gamification
+* Native R2 Object Storage for secure file sharing
+* Advanced RBAC and Zero Trust security principles
+* Zero-dependency Vanilla JS frontend for maximum performance
+
+---
+
 ### 🏷 **AzAgroPOS** – Retail & Service Management System
 
 > A multi-layered **.NET 8 WinForms** POS platform managing retail & repair operations.
