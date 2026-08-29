@@ -24,7 +24,7 @@
 name:        Muradov Tehmez
 location:    Nakhchivan, Azerbaijan
 roles:       Full-Stack Developer · .NET Engineer · Ethical Hacker
-experience:  4+ years in software development & cybersecurity
+experience:  7+ years in software development & cybersecurity
 languages:   Azerbaijani (native), English (fluent), Turkish (fluent)
 motto:       "If it's not secure, it's not complete."
 ```
