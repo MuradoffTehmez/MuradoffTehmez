@@ -79,6 +79,45 @@ My work philosophy combines **engineering precision**, **security-first coding**
 
 ## 🌟 Featured Projects
 
+### 🏠 **[LuxeHomeEstate](https://luxehomeestate.az)** – Premium Real Estate Platform
+
+> A production-grade **full-stack real estate platform** built for **Luxe Home Estate MMC** in Baku, Azerbaijan. Live at **[luxehomeestate.az](https://luxehomeestate.az)**.
+
+**Tech Stack:**
+
+* **Next.js 15** (App Router) + **React 19** – server components, server actions, streaming SSR
+* **Tailwind CSS v4** – custom design system with dark mode, brand tokens, WCAG-compliant contrast
+* **Prisma v6** + **Cloudflare D1** (SQLite) – type-safe ORM with edge-native database
+* **Cloudflare Workers** (via OpenNext) – globally distributed serverless deployment
+* **Cloudflare R2** – object storage for media assets
+* **TypeScript** – end-to-end type safety
+
+**Key Features:**
+
+* 🔍 Advanced property search & filtering — listing type, property type, city/district cascade, price range, area, rooms, renovation status, document status, sorting & pagination
+* 🏗️ Residential complex (project) showcase with status tracking
+* 📝 Blog / content management system with SEO optimization
+* 🤝 Official partnership system — multi-entity partner profiles, RBAC-gated admin CRUD, audit snapshots
+* 🔐 Enterprise-grade admin panel — PBKDF2 password hashing, mandatory TOTP 2FA, D1-backed sessions with instant revocation, IP rate limiting, granular RBAC permissions
+* 📱 Mobile-first responsive design with progressive disclosure filters
+* 🗺️ Interactive map integration (Leaflet)
+* ⭐ Favorites system (localStorage + server action)
+* 📊 SEO layer — dynamic metadata, JSON-LD structured data (RealEstateAgent, Property, Article, Service, BreadcrumbList), sitemap, robots.txt
+* 🌙 Dark mode — CSS custom property override strategy (no `dark:` prefixes), seamless theme switching via `next-themes`
+* 📧 Contact form with email notifications (Resend)
+* 🔔 Saved search notifications with Cloudflare Workers cron
+
+**Architecture Highlights:**
+
+* All public pages under `(site)` route group with shared Navbar + Footer layout
+* Azerbaijani-language URL structure (`/emlaklar`, `/xidmetler`, `/layiheler`, `/blog`, `/elaqe`)
+* Centralized domain constants — no hardcoded status strings
+* `publicPropertyWhere()` guard ensures drafts and deleted listings never leak
+* 40+ auth unit tests, full typecheck + build quality gate
+* Staging environment with separate D1 database and Worker deployment
+
+---
+
 ### 🌐 **Collabix** – Cloudflare Native Developer Collaboration Platform
 
 > An open-source, ultra-fast collaboration platform for developers, creators, and innovators built entirely on the **Cloudflare Ecosystem**.
