@@ -1,262 +1,218 @@
-# 👋 Hello, World! I'm **Muradov Tehmez**
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-00599C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical Hacking" />
-</p>
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full-Stack+Developer+%7C+Cybersecurity+Specialist;Building+Secure+%26+Scalable+Software+%F0%9F%94%90" alt="Typing SVG" /></a>
 
----
+<br/>
 
-<!-- <p align="center">
-  <img src="https://i.imgur.com/fqJzW2D.png" width="100%" alt="Profile Banner"/>
-</p> -->
+<!-- Profile Views & Social Badges -->
+<a href="https://github.com/MuradoffTehmez"><img src="https://komarev.com/ghpvc/?username=MuradoffTehmez&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile views" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muradovtahmaz"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:muradoffcode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;
+<a href="https://luxehomeestate.az"><img src="https://img.shields.io/badge/-luxehomeestate.az-000?style=flat-square&logo=vercel&logoColor=white" alt="LuxeHomeEstate" /></a>
 
-Welcome to my GitHub! 🚀 I’m a **C# .NET Developer**, **SQL Server Specialist**, and certified **Ethical Hacker**, passionate about designing **secure, high-performance, and scalable software architectures**.
+</div>
 
-I’m committed to bridging the gap between **software engineering** and **cybersecurity**, helping organizations in Azerbaijan and beyond to build reliable, secure, and innovative digital infrastructures.
+<br/>
 
----
+## 👋 About Me
 
-## 🧠 About Me
+```yaml
+name:        Muradov Tehmez
+location:    Nakhchivan, Azerbaijan
+roles:       Full-Stack Developer · .NET Engineer · Ethical Hacker
+experience:  4+ years in software development & cybersecurity
+languages:   Azerbaijani (native), English (fluent), Turkish (fluent)
+motto:       "If it's not secure, it's not complete."
+```
 
-* 🧾 **Full Name:** Muradov Tehmez
-* 📍 **Location:** Nakhchivan, Azerbaijan
-* 👨‍🏫 **Teaching:** Creator of a 5-month professional **C# & SQL Server course**
-* 🥇 **Achievement:** Winner of **StartupFest Nakhchivan**
-* 🔐 **Cybersecurity Role:** Active **Ethical Hacker** under NDA with **Qarabug MMC**
-* 🌐 **Languages:** Azerbaijani (native), English (fluent), Turkish (fluent)
-
----
-
-## 🧩 Professional Overview
-
-With 4+ years of software development experience, I focus on building **business automation systems**, **desktop applications**, and **secure backend solutions**.
-I’ve contributed to both **private sector** and **government projects**, particularly in HR, Retail, and Data Management fields.
-
-My work philosophy combines **engineering precision**, **security-first coding**, and **user-centric design** — because truly great software must be both powerful and safe.
+- 🏆 **StartupFest Nakhchivan** — 1st Place Winner
+- 🔐 Active **Ethical Hacker** under NDA with **Qarabug MMC** (CVSSv3.1, OWASP Top 10)
+- 👨‍🏫 Creator of a 5-month professional **C# & SQL Server** course
+- 🌐 Building production platforms on **Cloudflare's edge** (Workers, D1, R2)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-* **C#** – WinForms, OOP, business automation
-* **Python** – Django backend, automation scripts
-* **SQL** – Query optimization, triggers, procedures, views
-* **Java**, **JavaScript**, **HTML5/CSS3**
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_v6-2D3748?style=flat-square&logo=prisma&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Cloud & DevOps** | ![Cloudflare Workers](https://img.shields.io/badge/CF_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![R2](https://img.shields.io/badge/CF_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Security** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000?style=flat-square&logo=owasp&logoColor=white) |
 
-### ⚙ Frameworks & Platforms
-
-* **.NET Framework / .NET 8** – enterprise app architecture
-* **Django** – Python backend framework
-* **Entity Framework Core** – ORM, migrations, data layers
-* **Microsoft SQL Server** – indexing, security roles, audit trails
-* **Zebra ZPL** – Barcode & label generation
-* **Arduino** – IoT prototyping
-* **Git / GitHub**, **Docker (beginner)**
-
-### 🔒 Cybersecurity Expertise
-
-* **Ethical Hacking** – CVSSv3.1 scoring, exploit validation
-* **Penetration Testing** – web, network, and endpoint analysis
-* **OWASP Top 10** compliance
-* **Wireshark** – traffic sniffing & vulnerability mapping
-* **Secure Coding** – token-based auth, salted hashing, HTTPS enforcement
-
-### 📚 Development Principles
-
-* SOLID, KISS, and DRY methodologies
-* Multi-layered architecture
-* Dependency Injection (DI) and modular design
-* CI/CD-ready configuration mindset
-* Clean documentation and maintainability focus
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🏠 **[LuxeHomeEstate](https://luxehomeestate.az)** – Premium Real Estate Platform
+### 🏠 [LuxeHomeEstate](https://luxehomeestate.az) — Premium Real Estate Platform
 
-> A production-grade **full-stack real estate platform** built for **Luxe Home Estate MMC** in Baku, Azerbaijan. Live at **[luxehomeestate.az](https://luxehomeestate.az)**.
+<table>
+<tr><td>
 
-**Tech Stack:**
+**Production-grade full-stack real estate platform** for **Luxe Home Estate MMC**, Baku.  
+🔗 **Live:** [luxehomeestate.az](https://luxehomeestate.az)
 
-* **Next.js 15** (App Router) + **React 19** – server components, server actions, streaming SSR
-* **Tailwind CSS v4** – custom design system with dark mode, brand tokens, WCAG-compliant contrast
-* **Prisma v6** + **Cloudflare D1** (SQLite) – type-safe ORM with edge-native database
-* **Cloudflare Workers** (via OpenNext) – globally distributed serverless deployment
-* **Cloudflare R2** – object storage for media assets
-* **TypeScript** – end-to-end type safety
-
-**Key Features:**
-
-* 🔍 Advanced property search & filtering — listing type, property type, city/district cascade, price range, area, rooms, renovation status, document status, sorting & pagination
-* 🏗️ Residential complex (project) showcase with status tracking
-* 📝 Blog / content management system with SEO optimization
-* 🤝 Official partnership system — multi-entity partner profiles, RBAC-gated admin CRUD, audit snapshots
-* 🔐 Enterprise-grade admin panel — PBKDF2 password hashing, mandatory TOTP 2FA, D1-backed sessions with instant revocation, IP rate limiting, granular RBAC permissions
-* 📱 Mobile-first responsive design with progressive disclosure filters
-* 🗺️ Interactive map integration (Leaflet)
-* ⭐ Favorites system (localStorage + server action)
-* 📊 SEO layer — dynamic metadata, JSON-LD structured data (RealEstateAgent, Property, Article, Service, BreadcrumbList), sitemap, robots.txt
-* 🌙 Dark mode — CSS custom property override strategy (no `dark:` prefixes), seamless theme switching via `next-themes`
-* 📧 Contact form with email notifications (Resend)
-* 🔔 Saved search notifications with Cloudflare Workers cron
-
-**Architecture Highlights:**
-
-* All public pages under `(site)` route group with shared Navbar + Footer layout
-* Azerbaijani-language URL structure (`/emlaklar`, `/xidmetler`, `/layiheler`, `/blog`, `/elaqe`)
-* Centralized domain constants — no hardcoded status strings
-* `publicPropertyWhere()` guard ensures drafts and deleted listings never leak
-* 40+ auth unit tests, full typecheck + build quality gate
-* Staging environment with separate D1 database and Worker deployment
-
----
-
-### 🌐 **Collabix** – Cloudflare Native Developer Collaboration Platform
-
-> An open-source, ultra-fast collaboration platform for developers, creators, and innovators built entirely on the **Cloudflare Ecosystem**.
+**Stack:** `Next.js 15` · `React 19` · `Tailwind CSS v4` · `Prisma v6` · `Cloudflare Workers + D1 + R2` · `TypeScript`
 
 **Highlights:**
+- 🔍 Multi-criteria property search with cascade filters, sorting & pagination
+- 🔐 Admin panel — TOTP 2FA, PBKDF2 hashing, RBAC, IP rate limiting, instant session revocation
+- 🤝 Partnership system — multi-entity profiles, audit snapshots, granular permissions
+- 📊 Full SEO — JSON-LD (`RealEstateAgent`, `Property`, `Article`), dynamic metadata, sitemap
+- 🌙 Dark mode via CSS custom properties, WCAG AA+ contrast
+- 📱 Mobile-first design with progressive disclosure filters
+- ✅ 40+ unit tests, typecheck + build quality gate, staging environment
 
-* Zero-latency architecture using Cloudflare Workers, Pages, and D1 (SQLite)
-* Real-time WebSocket communication via Durable Objects
-* Integrated project management (Kanban/Sprints) and gamification
-* Native R2 Object Storage for secure file sharing
-* Advanced RBAC and Zero Trust security principles
-* Zero-dependency Vanilla JS frontend for maximum performance
+</td></tr>
+</table>
 
 ---
 
-### 🏷 **AzAgroPOS** – Retail & Service Management System
+### 🌐 [Collabix](https://github.com/MuradoffTehmez) — Developer Collaboration Platform
 
-> A multi-layered **.NET 8 WinForms** POS platform managing retail & repair operations.
+<table>
+<tr><td>
+
+**Open-source collaboration platform** built entirely on the **Cloudflare ecosystem**.
+
+**Stack:** `Cloudflare Workers` · `D1` · `R2` · `Durable Objects` · `Vanilla JS`
 
 **Highlights:**
+- ⚡ Zero-latency edge architecture with real-time WebSocket communication
+- 📋 Integrated project management (Kanban/Sprints) and gamification
+- 🔒 Advanced RBAC and Zero Trust security principles
+- 🪶 Zero-dependency frontend for maximum performance
 
-* XPrinter & Zebra Printer Integration
-* Inventory, sales & debt tracking
-* Real-time data analytics
-* SQL triggers, views, and stored procedures
-* Modern MaterialSkin UI/UX design
-
----
-
-### 🔄 **360° Evaluation System** – Government HR Solution
-
-> A large-scale **Django-based HR evaluation platform** for institutional performance tracking.
-
-**Core Features:**
-
-* Multi-role RBAC (SuperAdmin, HR, Employee)
-* Peer, self, and supervisor evaluation cycles
-* Likert-scale survey forms
-* Dynamic performance charts (Chart.js)
-* Secure JWT authentication, audit logging
+</td></tr>
+</table>
 
 ---
 
-### 🌍 **Saintstream Platform** – Multimedia & Content Management
+### 🏷️ AzAgroPOS — Retail & Service Management
 
-> A Django-powered digital platform that delivers multimedia and streaming content.
+<table>
+<tr><td>
 
-**Features:**
+**Multi-layered .NET 8 WinForms** POS platform for retail & repair operations.
 
-* Modular REST API
-* Dynamic content dashboard
-* Admin & user role separation
-* Responsive design (HTML, CSS, JS)
+**Stack:** `.NET 8` · `C#` · `SQL Server` · `MaterialSkin` · `Zebra ZPL`
 
----
+**Highlights:**
+- 🖨️ XPrinter & Zebra printer integration with ZPL barcode generation
+- 📊 Real-time inventory, sales & debt tracking with analytics
+- ⚙️ SQL triggers, views, and stored procedures
 
-### 📦 **Barcode Management System** – Inventory Automation
-
-> A full **C# + SQL Server** solution for retail inventory control.
-
-**Capabilities:**
-
-* Product creation, category linking
-* ZPL-based barcode generation
-* Label printing automation
-* Real-time synchronization with database
+</td></tr>
+</table>
 
 ---
 
-## 🎓 Education & Certifications
+### 🔄 360° Evaluation System — Government HR Solution
 
-* 🎓 **ISCODE Academy Graduate** – Computer Business & Programming
-* 🧾 **Microsoft Certified:** SQL Server, C#
-* 🧾 **Cisco Certified:** Networking & Security
-* 🧾 **Oracle Certified:** Database Foundations
+<table>
+<tr><td>
+
+**Large-scale Django-based HR evaluation platform** for institutional performance tracking.
+
+**Stack:** `Django` · `Python` · `PostgreSQL` · `Chart.js` · `JWT`
+
+**Highlights:**
+- 👥 Multi-role RBAC (SuperAdmin, HR, Employee) with peer/self/supervisor evaluations
+- 📈 Dynamic performance charts and Likert-scale survey forms
+- 🔐 Secure JWT authentication with audit logging
+
+</td></tr>
+</table>
+
+<details>
+<summary><b>📦 More Projects</b></summary>
+
+<br/>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **Saintstream** | Multimedia & content management platform | `Django` · `REST API` · `JS` |
+| **Barcode System** | Retail inventory automation with label printing | `C#` · `SQL Server` · `Zebra ZPL` |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuradoffTehmez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuradoffTehmez&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradoffTehmez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" width="40%" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-SQL_Server_&_C%23-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Networking_&_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ISCODE](https://img.shields.io/badge/ISCODE-Academy_Graduate-6C63FF?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
 ## 👨‍🏫 Teaching & Mentorship
 
-I’m passionate about **sharing real-world experience** with future developers.
-My **5-month professional course** focuses on:
+> 🎯 *"Training developers who write clean, secure, and production-ready code."*
 
-* Building enterprise-grade apps in **C# .NET**
-* Data modeling & optimization in **SQL Server**
-* Secure login systems & business logic
-* Architecture patterns & deployment workflows
+My **5-month professional course** covers:
 
-> 🎯 **Goal:** To train developers who write clean, secure, and production-ready code.
-
----
-
-## 🧭 Vision & Mission
-
-> "My mission is to strengthen Azerbaijan’s software ecosystem by combining technical mastery with security discipline."
-
-I believe in:
-
-* Local innovation with global standards
-* Empowering youth through tech education
-* Promoting ethical development practices
-* Building bridges between **software** and **cybersecurity**
+- 🏗️ Enterprise-grade application development in **C# .NET**
+- 🗄️ Data modeling & query optimization in **SQL Server**
+- 🔐 Secure authentication systems & business logic patterns
+- 📐 Architecture patterns, SOLID principles & deployment workflows
 
 ---
 
-## 📬 Contact & Links
+## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/tehmezmuradov"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muradovtahmaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muradoffcode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-📱 **Phone / Telegram / WhatsApp:** +994 51 871 74 83
-🌐 **Website:** [www.tehmez.dev](#) *(Coming soon)*
-💼 **Portfolio:** [codersazerbaijan.dev](#)
+<a href="https://github.com/MuradoffTehmez"><img src="https://img.shields.io/badge/GitHub-MuradoffTehmez-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muradovtahmaz"><img src="https://img.shields.io/badge/LinkedIn-muradovtahmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:muradoffcode@gmail.com"><img src="https://img.shields.io/badge/Email-muradoffcode-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
+<br/><br/>
 
-## 💡 Fun Facts
+📱 **Phone / Telegram / WhatsApp:** `+994 51 871 74 83`
 
-* 🥇 **1st Place Winner** at StartupFest Nakhchivan
-* 🔐 Performs **penetration testing** for real clients under NDA
-* 👨‍🏫 Trains future developers through structured learning
-* ⚙️ Enjoys experimenting with **IoT & embedded systems**
-* 🎯 Motto: *“If it’s not secure, it’s not complete.”*
+</div>
 
----
+<br/>
 
-## 🤝 Collaboration Opportunities
+<div align="center">
 
-Open to partnerships and collaborations in:
+**Open to collaboration in:**  
+`Enterprise Web & Desktop Apps` · `Cybersecurity Research` · `IT Education & Mentorship`
 
-* 🔹 Enterprise Desktop & Web App Development
-* 🔹 Cybersecurity Research & Penetration Testing
-* 🔹 IT Education & Mentorship Programs
+<br/>
 
-> 📫 Let’s connect and **build the future of secure software together!** 🚀
+*— "If it's not secure, it's not complete." —*
 
-<!-- <p align="center">
-  <img src="https://i.imgur.com/K3aQ3mT.png" width="100%" alt="Footer Banner"/>
-</p> -->
+</div>
