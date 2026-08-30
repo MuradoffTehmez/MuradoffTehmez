@@ -1,145 +1,223 @@
 <div align="center">
 
-# Muradov Tehmez
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full-Stack+Developer+%7C+Cybersecurity+Specialist;Building+Secure+%26+Scalable+Software+%F0%9F%94%90" alt="Typing SVG" /></a>
 
-**Full-Stack Developer · .NET Engineer · Ethical Hacker**
+<br/>
 
-Naxçıvan, Azərbaycan
-
-[LinkedIn](https://www.linkedin.com/in/muradovtahmaz) · [GitHub](https://github.com/MuradoffTehmez) · [Email](mailto:muradoffcode@gmail.com) · [luxehomeestate.az](https://luxehomeestate.az)
+<!-- Profile Views & Social Badges -->
+<a href="https://github.com/MuradoffTehmez"><img src="https://komarev.com/ghpvc/?username=MuradoffTehmez&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile views" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muradovtahmaz"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:muradoffcode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;
+<a href="https://luxehomeestate.az"><img src="https://img.shields.io/badge/-luxehomeestate.az-000?style=flat-square&logo=vercel&logoColor=white" alt="LuxeHomeEstate" /></a>
 
 </div>
 
 <br/>
 
-## Haqqımda
+## 👋 About Me
 
-Naxçıvan əsaslı Full-Stack Developer və Etik Hakker, təhlükəsiz və miqyaslana bilən proqram təminatının hazırlanmasında 7+ illik təcrübəyə malikdir. İş sahəsi full-stack veb inkişaf, .NET əsaslı korporativ tətbiqlər və tətbiqi kibertəhlükəsizlikdir.
+```yaml
+name:        Muradov Tehmez
+location:    Nakhchivan, Azerbaijan
+roles:       Full-Stack Developer · .NET Engineer · Ethical Hacker
+experience:  7+ years in software development & cybersecurity
+languages:   Azerbaijani (native), English (fluent), Turkish (fluent)
+motto:       "If it's not secure, it's not complete."
+```
 
-| | |
-|---|---|
-| **Təcrübə** | 7+ il, proqram təminatı və kibertəhlükəsizlik |
-| **Cari fəaliyyət** | Etik hakerlik (NDA, Qarabağ MMC) — CVSSv3.1, OWASP Top 10 |
-| **Tədris** | 5 aylıq C# & SQL Server peşəkar kursunun müəllifi |
-| **Nailiyyət** | StartupFest Naxçıvan — 1-ci yer |
-| **Dillər** | Azərbaycan (ana dili), İngilis (səlis), Türk (səlis) |
-
----
-
-## Texniki Bacarıqlar
-
-| Kateqoriya | Texnologiyalar |
-|---|---|
-| Dillər | C#, TypeScript, JavaScript, Python, SQL |
-| Frontend | Next.js 15, React 19, Tailwind CSS v4, HTML5, CSS3 |
-| Backend | .NET 8, Django, Node.js, Prisma v6, Entity Framework Core |
-| Verilənlər bazası | SQL Server, Cloudflare D1, SQLite |
-| Cloud & DevOps | Cloudflare Workers, Cloudflare R2, Git, GitHub, Docker |
-| Təhlükəsizlik | Kali Linux, Wireshark, OWASP metodologiyası |
+- 🏆 **StartupFest Nakhchivan** — 1st Place Winner
+- 🔐 Active **Ethical Hacker** under NDA with **Qarabug MMC** (CVSSv3.1, OWASP Top 10)
+- 👨‍🏫 Creator of a 5-month professional **C# & SQL Server** course
+- 🌐 Building production platforms on **Cloudflare's edge** (Workers, D1, R2)
 
 ---
 
-## Layihələr
+## 🛠️ Tech Stack
 
-### LuxeHomeEstate — Premium Daşınmaz Əmlak Platforması
-*Bakıdakı Luxe Home Estate MMC üçün hazırlanmış istehsal səviyyəli platforma.*
-🔗 [luxehomeestate.az](https://luxehomeestate.az)
+<div align="center">
 
-**Stack:** Next.js 15, React 19, Tailwind CSS v4, Prisma v6, Cloudflare Workers/D1/R2, TypeScript
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_v6-2D3748?style=flat-square&logo=prisma&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Cloud & DevOps** | ![Cloudflare Workers](https://img.shields.io/badge/CF_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![R2](https://img.shields.io/badge/CF_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Security** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000?style=flat-square&logo=owasp&logoColor=white) |
 
-- Kaskad filtrlər, sıralama və səhifələmə ilə çoxkriteriyalı əmlak axtarışı
-- Admin panel: TOTP 2FA, PBKDF2 hashing, RBAC, IP rate limiting, ani sessiya ləğvi
-- Tərəfdaşlıq sistemi: çox-obyektli profillər, audit snapshot-ları, dəqiq icazə səviyyələri
-- Tam SEO: JSON-LD (RealEstateAgent, Property, Article), dinamik metadata, sitemap
-- CSS custom properties ilə qaranlıq rejim, WCAG AA+ kontrast standartı
-- Mobile-first dizayn, tədricən açılan filtr interfeysi
-- 40+ unit test, typecheck və build keyfiyyət nəzarəti, staging mühiti
+</div>
 
-### Collabix — Developer Əməkdaşlıq Platforması
-*Tamamilə Cloudflare ekosistemi üzərində qurulmuş açıq mənbəli platforma.*
-🔗 [GitHub](https://github.com/MuradoffTehmez)
+---
 
-**Stack:** Cloudflare Workers, D1, R2, Durable Objects, Vanilla JS
+## 🌟 Featured Projects
 
-- Real-time WebSocket kommunikasiya ilə sıfır-gecikməli edge arxitekturası
-- İnteqrasiya olunmuş layihə idarəetməsi (Kanban/Sprint) və gamifikasiya
-- İnkişaf etmiş RBAC və Zero Trust təhlükəsizlik prinsipləri
-- Maksimum performans üçün sıfır-asılılıqlı frontend
+### 🏠 [LuxeHomeEstate](https://luxehomeestate.az) — Premium Real Estate Platform
 
-### AzAgroPOS — Pərakəndə və Xidmət İdarəetmə Sistemi
-*Pərakəndə və təmir əməliyyatları üçün çoxqatlı .NET 8 WinForms POS platforması.*
+<table>
+<tr><td>
 
-**Stack:** .NET 8, C#, SQL Server, MaterialSkin, Zebra ZPL
+**Production-grade full-stack real estate platform** for **Luxe Home Estate MMC**, Baku.  
+🔗 **Live:** [luxehomeestate.az](https://luxehomeestate.az)
 
-- XPrinter və Zebra printer inteqrasiyası, ZPL barkod generasiyası
-- Analitika ilə real-time inventar, satış və borc izləmə
-- SQL trigger, view və saxlanılan prosedurlar
+**Stack:** `Next.js 15` · `React 19` · `Tailwind CSS v4` · `Prisma v6` · `Cloudflare Workers + D1 + R2` · `TypeScript`
 
-### 360° Qiymətləndirmə Sistemi — Dövlət HR Həlli
-*Qurumsal performans izləmə üçün böyük miqyaslı Django əsaslı platforma.*
+**Highlights:**
+- 🔍 Multi-criteria property search with cascade filters, sorting & pagination
+- 🔐 Admin panel — TOTP 2FA, PBKDF2 hashing, RBAC, IP rate limiting, instant session revocation
+- 🤝 Partnership system — multi-entity profiles, audit snapshots, granular permissions
+- 📊 Full SEO — JSON-LD (`RealEstateAgent`, `Property`, `Article`), dynamic metadata, sitemap
+- 🌙 Dark mode via CSS custom properties, WCAG AA+ contrast
+- 📱 Mobile-first design with progressive disclosure filters
+- ✅ 40+ unit tests, typecheck + build quality gate, staging environment
 
-**Stack:** Django, Python, PostgreSQL, Chart.js, JWT
+</td></tr>
+</table>
 
-- Peer/self/supervisor qiymətləndirmələri ilə çox-rollu RBAC (SuperAdmin, HR, İşçi)
-- Dinamik performans qrafikləri və Likert-şkala sorğu formaları
-- Audit loglama ilə təhlükəsiz JWT autentifikasiyası
+---
+
+### 🌐 [Collabix](https://github.com/MuradoffTehmez) — Developer Collaboration Platform
+
+<table>
+<tr><td>
+
+**Open-source collaboration platform** built entirely on the **Cloudflare ecosystem**.
+
+**Stack:** `Cloudflare Workers` · `D1` · `R2` · `Durable Objects` · `Vanilla JS`
+
+**Highlights:**
+- ⚡ Zero-latency edge architecture with real-time WebSocket communication
+- 📋 Integrated project management (Kanban/Sprints) and gamification
+- 🔒 Advanced RBAC and Zero Trust security principles
+- 🪶 Zero-dependency frontend for maximum performance
+
+</td></tr>
+</table>
+
+---
+
+### 🏷️ AzAgroPOS — Retail & Service Management
+
+<table>
+<tr><td>
+
+**Multi-layered .NET 8 WinForms** POS platform for retail & repair operations.
+
+**Stack:** `.NET 8` · `C#` · `SQL Server` · `MaterialSkin` · `Zebra ZPL`
+
+**Highlights:**
+- 🖨️ XPrinter & Zebra printer integration with ZPL barcode generation
+- 📊 Real-time inventory, sales & debt tracking with analytics
+- ⚙️ SQL triggers, views, and stored procedures
+
+</td></tr>
+</table>
+
+---
+
+### 🔄 360° Evaluation System — Government HR Solution
+
+<table>
+<tr><td>
+
+**Large-scale Django-based HR evaluation platform** for institutional performance tracking.
+
+**Stack:** `Django` · `Python` · `PostgreSQL` · `Chart.js` · `JWT`
+
+**Highlights:**
+- 👥 Multi-role RBAC (SuperAdmin, HR, Employee) with peer/self/supervisor evaluations
+- 📈 Dynamic performance charts and Likert-scale survey forms
+- 🔐 Secure JWT authentication with audit logging
+
+</td></tr>
+</table>
 
 <details>
-<summary><b>Digər Layihələr</b></summary>
+<summary><b>📦 More Projects</b></summary>
+
 <br/>
 
-| Layihə | Təsvir | Stack |
-|---|---|---|
-| Saintstream | Multimedia və məzmun idarəetmə platforması | Django, REST API, JS |
-| Barcode System | Etiket çapı ilə pərakəndə inventar avtomatlaşdırılması | C#, SQL Server, Zebra ZPL |
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **Saintstream** | Multimedia & content management platform | `Django` · `REST API` · `JS` |
+| **Barcode System** | Retail inventory automation with label printing | `C#` · `SQL Server` · `Zebra ZPL` |
 
 </details>
 
 ---
 
-## GitHub Statistikası
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuradoffTehmez&theme=grayscale" width="32%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuradoffTehmez&theme=grayscale" width="32%" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuradoffTehmez&theme=grayscale" width="32%" alt="Most Commit Language" />
+<img src="https://streak-stats.demolab.com?user=MuradoffTehmez&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=6C63FF&sideNums=6C63FF" width="60%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuradoffTehmez&theme=grayscale" width="97%" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuradoffTehmez&theme=tokyonight" width="32%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuradoffTehmez&theme=tokyonight" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuradoffTehmez&theme=tokyonight" width="32%" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuradoffTehmez&theme=tokyonight" width="97%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## Sertifikatlar
+## 🎓 Certifications
 
-- Microsoft — SQL Server & C#
-- Cisco — Networking & Security
-- Oracle — Database Foundations
-- ISCODE Academy — Graduate
+<div align="center">
 
----
+![Microsoft](https://img.shields.io/badge/Microsoft-SQL_Server_&_C%23-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Networking_&_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ISCODE](https://img.shields.io/badge/ISCODE-Academy_Graduate-6C63FF?style=for-the-badge&logoColor=white)
 
-## Tədris və Mentorluq
-
-5 aylıq peşəkar kurs, təmiz, təhlükəsiz və istehsala hazır kod yazan developerlər hazırlamağa yönəlib. Kurs aşağıdakıları əhatə edir:
-
-- Qurumsal səviyyəli tətbiq inkişafı (C# .NET)
-- Data modelləşdirmə və sorğu optimallaşdırması (SQL Server)
-- Təhlükəsiz autentifikasiya sistemləri və biznes-məntiq nümunələri
-- Arxitektura nümunələri, SOLID prinsipləri və deployment iş axınları
+</div>
 
 ---
 
-## Əlaqə
+## 👨‍🏫 Teaching & Mentorship
 
-| | |
-|---|---|
-| Email | muradoffcode@gmail.com |
-| LinkedIn | [muradovtahmaz](https://www.linkedin.com/in/muradovtahmaz) |
-| GitHub | [MuradoffTehmez](https://github.com/MuradoffTehmez) |
-| Telefon / Telegram / WhatsApp | +994 51 871 74 83 |
+> 🎯 *"Training developers who write clean, secure, and production-ready code."*
 
-**Əməkdaşlıq sahələri:** Qurumsal Veb & Desktop Tətbiqlər · Kibertəhlükəsizlik Tədqiqatı · İT Təhsili & Mentorluq
+My **5-month professional course** covers:
+
+- 🏗️ Enterprise-grade application development in **C# .NET**
+- 🗄️ Data modeling & query optimization in **SQL Server**
+- 🔐 Secure authentication systems & business logic patterns
+- 📐 Architecture patterns, SOLID principles & deployment workflows
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/MuradoffTehmez"><img src="https://img.shields.io/badge/GitHub-MuradoffTehmez-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muradovtahmaz"><img src="https://img.shields.io/badge/LinkedIn-muradovtahmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:muradoffcode@gmail.com"><img src="https://img.shields.io/badge/Email-muradoffcode-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+📱 **Phone / Telegram / WhatsApp:** `+994 51 871 74 83`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Open to collaboration in:**  
+`Enterprise Web & Desktop Apps` · `Cybersecurity Research` · `IT Education & Mentorship`
+
+<br/>
+
+*— "If it's not secure, it's not complete." —*
+
+</div>
